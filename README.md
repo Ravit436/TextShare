@@ -8,6 +8,7 @@ and linux based devices but this is offline version i.e. you have to connect via
  * It has simplified your work to cut, copy and paste between your gadgets.
 
 Technologies Used:-
+
 1 .Database maintained using Parse Server.
 2. XML and XAML coding for Designing.
 3. Backend coding using JAVA and C#.
