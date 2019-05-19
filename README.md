@@ -9,7 +9,7 @@ and linux based devices but this is offline version i.e. you have to connect via
 
 Technologies Used:-
 
-1 .Database maintained using Parse Server.
+1. Database maintained using Parse Server.
 2. XML and XAML coding for Designing.
-3. Backend coding using JAVA and C#.
+3. Coding using JAVA and C#.
 4. Android Studio and Visual Studio.
